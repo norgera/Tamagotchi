@@ -1,0 +1,2 @@
+typeName, maxHealth, maxSleep, maxFullness, maxHappiness, fullnessDecayRate, sleepDecayRate, happinessDecayRate, healthDecayRate, name, type, vitalStats, lastPlay, lastVetVist, isSleeping, isHungry, isAngry, isDead, health, sleep, fullness, happiness
+Berry,7,7,6,5,1,2,1,0,Tweety,Berry,7|7|6|5,1732655237243,1732655237243,false,false,false,false,7,7,6,5

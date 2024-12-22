@@ -1,0 +1,2 @@
+typeName,maxHealth,maxSleep,maxFullness,maxHappiness,fullnessDecayRate,sleepDecayRate,happinessDecayRate,healthDecayRate,name,type,vitalStats,lastPlay,lastVetVisit,isSleeping,isHungry,isAngry,isDead,health,sleep,fullness,happiness,foodInventory,giftInventory
+Brock,7,6,5,7,1,2,2,0,asd,Brock,3|3|2|3,0,0,false,false,false,false,3,3,2,3,Apple:3;Carrot:5;Banana:2,Ball:1;Puzzle:1;Toy Mouse:2

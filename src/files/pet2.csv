@@ -1,0 +1,2 @@
+typeName, maxHealth, maxSleep, maxFullness, maxHappiness, fullnessDecayRate, sleepDecayRate, happinessDecayRate, healthDecayRate, name, type, vitalStats, lastPlay, lastVetVist, isSleeping, isHungry, isAngry, isDead, health, sleep, fullness, happiness
+Brock,7,6,5,7,1,2,2,0,Luna,Brock,7|6|5|7,1732655237243,1732655237243,false,false,false,false,7,6,5,7

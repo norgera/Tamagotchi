@@ -1,0 +1,2 @@
+typeName,maxHealth,maxSleep,maxFullness,maxHappiness,fullnessDecayRate,sleepDecayRate,happinessDecayRate,healthDecayRate,name,type,vitalStats,lastPlay,lastVetVisit,isSleeping,isHungry,isAngry,isDead,health,sleep,fullness,happiness,foodInventory,giftInventory
+Sunny,7,5,7,6,1,1,2,0,Fred,Sunny,7|6|5|7,1732655237243,1732655237243,false,false,false,false,7,5,7,6,"",""
