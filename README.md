@@ -18,6 +18,15 @@ The following libraries and tools are required to run or build the Virtual Pet a
 
 Ensure all libraries are compatible with Java SE 8 or higher.
 
+
+![demo1](https://github.com/user-attachments/assets/fe8c8b27-1bec-4528-864c-105fcf604b5c)
+![demo2](https://github.com/user-attachments/assets/71f7c075-2356-4206-bbb4-c2e71b08c8ea)
+![demo3](https://github.com/user-attachments/assets/f0d36c9d-97be-4958-b685-446bcdfdf191)
+
+
+
+
+
 ## Building the Software
 To build the Virtual Pet application from source, follow these steps:
 
